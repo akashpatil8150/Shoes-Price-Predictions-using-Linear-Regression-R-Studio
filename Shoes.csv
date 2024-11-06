@@ -1,0 +1,71 @@
+Shoe_no,Brand,Model,Type,Color,Size,Gender,Material,Price,Release_Date,Rating,In_Stock
+1,New Balance,NMD,Training,Blue,10,Female,Leather,4700,01-01-2023,3.5,No
+2,Paragon,Gazelle,Running,White,11,Female,Suede,7600,08-01-2023,4.7,Yes
+3,Sparx,Stan Smith,Basketball,Green,10,Male,Leather,7100,15-01-2023,3.1,Yes
+4,Nike,Zoom Fly,Hiking,Green,6,Female,Synthetic,9500,22-01-2023,4.9,Yes
+5,Reebok,Max,Basketball,Green,6,Male,Synthetic,12200,29-01-2023,3.7,Yes
+6,Reebok,Ultraboost,Running,Black,7,Female,Synthetic,12300,05-02-2023,3.7,No
+7,Reebok,Ultraboost,Basketball,Grey,5,Male,Mesh,7400,12-02-2023,3,Yes
+8,Paragon,Ignite,Hiking,Blue,8,Male,Mesh,8600,19-02-2023,3.4,Yes
+9,Adidas,Samba,Hiking,Blue,6,Male,Synthetic,6200,26-02-2023,3.8,No
+10,Reebok,Comfit,Basketball,Red,9,Male,Mesh,13500,05-03-2023,4.9,No
+11,Sparx,Air Max 90,Casual,Black,8,Female,Mesh,4700,12-03-2023,3.2,Yes
+12,Puma,Yeezy Boost,Hiking,Green,6,Female,Canvas,12400,19-03-2023,4.9,Yes
+13,New Balance,Future Rider,Running,Red,6,Female,Mesh,13300,26-03-2023,4.7,No
+14,Paragon,SS-421,Running,Grey,7,Female,Canvas,13300,02-04-2023,3.9,Yes
+15,Bata,Ignite,Running,Red,5,Female,Canvas,7100,09-04-2023,3.7,No
+16,Nike,Zoom Fly,Casual,White,11,Male,Mesh,8500,16-04-2023,3.5,Yes
+17,Nike,Clyde,Running,Blue,12,Female,Mesh,11100,23-04-2023,4.2,No
+18,New Balance,Zoom Fly,Basketball,Green,5,Male,Mesh,7300,30-04-2023,3.1,Yes
+19,Puma,Classic Leather,Casual,Yellow,7,Female,Leather,8500,07-05-2023,3,No
+20,Adidas,Future Rider,Hiking,Green,9,Male,Canvas,6400,14-05-2023,3.9,No
+21,Bata,Yeezy Boost,Casual,Yellow,11,Female,Leather,9500,21-05-2023,3.1,No
+22,Paragon,Stan Smith,Running,Red,5,Male,Synthetic,4500,28-05-2023,3.5,Yes
+23,Paragon,SS-421,Running,Yellow,9,Female,Mesh,13600,04-06-2023,3.4,No
+24,Bata,SM-162,Basketball,Red,12,Female,Synthetic,4900,11-06-2023,3.5,Yes
+25,Nike,Stan Smith,Hiking,Green,8,Male,Leather,10200,18-06-2023,3.3,No
+26,Adidas,Thunder Spectra,Hiking,Black,8,Male,Canvas,7700,25-06-2023,3,No
+27,Sparx,SF-871,Casual,Black,5,Male,Suede,10900,02-07-2023,3.2,Yes
+28,Adidas,NMD,Running,Red,5,Female,Mesh,15500,09-07-2023,4.2,Yes
+29,Sparx,Air Max 90,Running,White,8,Female,Synthetic,11700,16-07-2023,4.9,Yes
+30,Nike,Max,Casual,Red,10,Female,Synthetic,4400,23-07-2023,5,No
+31,Adidas,NMD,Training,White,8,Male,Synthetic,9200,30-07-2023,3.8,No
+32,New Balance,Vertex,Running,Red,11,Male,Leather,10100,06-08-2023,3.3,Yes
+33,Reebok,Air Max 90,Hiking,Grey,12,Female,Leather,10400,13-08-2023,4.3,Yes
+34,Nike,Stimulus,Casual,Grey,5,Male,Suede,12200,20-08-2023,4,Yes
+35,Reebok,Classic Leather,Casual,Red,8,Male,Leather,7300,27-08-2023,5,Yes
+36,Sparx,Thunder Spectra,Basketball,Black,5,Female,Canvas,5500,03-09-2023,3.1,Yes
+37,Bata,SF-871,Running,White,12,Male,Canvas,8700,10-09-2023,4.6,Yes
+38,Paragon,RS-X,Running,Grey,12,Male,Synthetic,15500,17-09-2023,3.6,No
+39,Paragon,Air Max 90,Hiking,White,10,Male,Mesh,6200,24-09-2023,3.5,Yes
+40,Nike,Cali,Training,Blue,7,Female,Synthetic,14800,01-10-2023,4.3,Yes
+41,Puma,SM-162,Hiking,Yellow,6,Male,Canvas,10500,08-10-2023,3.5,Yes
+42,Reebok,Suede Classic,Training,Green,5,Female,Canvas,9500,15-10-2023,4.3,Yes
+43,Nike,Vertex,Basketball,Black,9,Male,Canvas,14600,22-10-2023,4,No
+44,Adidas,Classic Leather,Hiking,Black,12,Female,Synthetic,9500,29-10-2023,3.8,Yes
+45,Reebok,Samba,Hiking,Blue,5,Male,Suede,12700,05-11-2023,4.1,Yes
+46,Sparx,SS-421,Running,Black,8,Female,Mesh,8800,12-11-2023,3.6,Yes
+47,Reebok,Gazelle,Hiking,Green,9,Female,Suede,14800,19-11-2023,4.4,No
+48,Reebok,Comfit,Running,Grey,9,Male,Suede,12300,26-11-2023,3.8,No
+49,Bata,Yeezy Boost,Basketball,Green,6,Male,Mesh,12400,03-12-2023,3.7,Yes
+50,Paragon,Ultraboost,Training,Blue,5,Female,Canvas,7900,10-12-2023,4.7,No
+51,Nike,Cali,Hiking,Green,7,Male,Canvas,13100,17-12-2023,4.8,Yes
+52,Adidas,SL-147,Basketball,Green,11,Female,Synthetic,11600,24-12-2023,3.1,Yes
+53,Adidas,Ignite,Running,Grey,11,Male,Synthetic,6900,31-12-2023,3.5,Yes
+54,Adidas,Suede Classic,Training,Grey,9,Female,Suede,5900,07-01-2024,3.7,No
+55,Paragon,Superstar,Hiking,Green,9,Male,Mesh,13600,14-01-2024,4.6,Yes
+56,Nike,Astro,Hiking,Green,7,Male,Mesh,15500,21-01-2024,5,Yes
+57,Paragon,Air Max 90,Casual,Blue,9,Male,Leather,9500,28-01-2024,4.9,Yes
+58,Puma,SM-306,Hiking,White,11,Male,Leather,11100,04-02-2024,4.8,No
+59,New Balance,Thunder Spectra,Basketball,Green,8,Female,Suede,14300,11-02-2024,3.6,No
+60,Paragon,Vertex,Hiking,White,7,Female,Synthetic,9500,18-02-2024,5,No
+61,Reebok,Power,Hiking,Yellow,8,Male,Canvas,15400,25-02-2024,3.5,Yes
+62,Bata,Suede Classic,Casual,Yellow,12,Female,Canvas,10900,03-03-2024,3.2,Yes
+63,Reebok,Classic Leather,Casual,Black,5,Male,Suede,13800,10-03-2024,4.9,No
+64,Puma,Vertex,Casual,Yellow,10,Female,Mesh,14900,17-03-2024,3.5,Yes
+65,Paragon,Thunder Spectra,Hiking,Blue,10,Female,Leather,13800,24-03-2024,4.4,No
+66,New Balance,Fresh Foam,Training,Grey,10,Male,Synthetic,5900,31-03-2024,3.1,No
+67,Puma,SM-306,Training,White,5,Female,Mesh,11500,07-04-2024,4.5,Yes
+68,Nike,Max,Basketball,White,5,Male,Synthetic,8800,14-04-2024,4.8,Yes
+69,Nike,Fresh Foam,Hiking,Black,12,Male,Synthetic,4800,21-04-2024,3.5,Yes
+70,New Balance,Ambassador,Casual,Black,12,Male,Suede,9100,28-04-2024,3.8,Yes
