@@ -141,7 +141,6 @@ predict_price <- function() {
 # Call the function to predict price based on user input
 predict_price()
 
-View(trainData)
 
 
 
